@@ -1,7 +1,4 @@
 
-<!-- Header -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-
   <!-- Titulo -->
 <h1 align="center" > Maicol Rojas | Software Developer </h1>
 
