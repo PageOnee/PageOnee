@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/maicol-rojas/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Maicol Rojas" height="40" width="40" /></a>
-  <a href="https://maicol-rojas.onrender.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Maicol Rojas" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/maicol-rojas/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Maicol Rojas" /></a>
+  <a href="https://maicol-rojas.onrender.com" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Maicol Rojas" /></a>
 </p>
 
 <!-- Lenguajes y Herramientas -->
@@ -49,6 +49,3 @@
   <img style="height:40;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=PageOnee&theme=gotham&count_private=true&show_icons=true&include_all_commits=true" />
   <img style="height:40;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PageOnee&layout=compact&theme=gotham&langs_count=8" />
 </div>
-
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
