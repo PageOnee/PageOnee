@@ -44,7 +44,3 @@
   <a href=""><img alt="Django" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href=""><img alt="Django" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
-<!-- Stats y Lenguajes mas Utilizados -->
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:40;width:30%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PageOnee&layout=compact&theme=gotham&langs_count=8" />
-</div>
