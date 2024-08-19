@@ -10,7 +10,7 @@
 
 <!-- Descripcion -->
 - 📚 I am a Systems Engineer [Universidad de Boyaca]((https://www.uniboyaca.edu.co/es))
-- 📫 How to reach me **maidanlrojas@gmail.com*
+- 📫 How to reach me **maidanlrojas@gmail.com**
 
 <!-- Contacto -->
 <h3 align="left">Connect with me:</h3>
