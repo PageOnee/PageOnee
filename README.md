@@ -6,7 +6,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=PageOnee&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 
 <!-- Descripcion -->
-- 📚 I am a Systems Engineer [Universidad de Boyaca]((https://www.uniboyaca.edu.co/es))
+- 📚 I am a Systems Engineer  from the [Universidad de Boyaca]((https://www.uniboyaca.edu.co/es))
 - 📫 How to reach me **maidanlrojas@gmail.com**
 - 📂 Visit my <a href="https://maicol-rojas.onrender.com">Portfolio</a>
 
